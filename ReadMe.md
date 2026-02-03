@@ -1,2 +1,2 @@
 # About Me:
-Writing, coding, research—I am an artist-researcher and I am glued to my terminal, never using an interface (except for Blender and a few other software programs). I dabble in a little bit of everything, with a keen interest in low-level programming and understanding how computers work. I believe in the values of free and open source software!<br><br>Here you will find some of my work and a few research papers !
+

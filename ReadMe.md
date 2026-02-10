@@ -12,7 +12,7 @@ I build production-ready systems that bridge physical and digital experiences.
 
 ## Tech Stack
 
-**Languages:** C (Expert) • C++ (Advanced) • Python (Proficient)
+**Languages:** C • C++
 **Graphics:** OpenGL • GLSL • Raylib • GPU programming
 **Embedded:** Raspberry Pi • ESP32 • Arduino • Serial communication
 **Systems:** Linux • systemd • Memory safety (Valgrind, AddressSanitizer)

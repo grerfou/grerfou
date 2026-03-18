@@ -1,29 +1,37 @@
-# Hi, I'm grerfou 
+I build embedded systems that run without crashing — and look good doing it.
 
-**Creative Technologist** specializing in interactive installations, real-time graphics, and embedded systems.
-I build production-ready systems that bridge physical and digital experiences.
+3 years in C/C++, specializing in low-level firmware, real-time IoT pipelines, and GPU-accelerated rendering on constrained hardware.
 
-## What I Do
+---
 
-- **Interactive Installations** — Multi-modal visual systems for museums and exhibitions
-- **Projection Mapping** — Real-time GPU-accelerated warping and calibration tools
-- **Embedded Systems** — Production daemons and IoT integration (Raspberry Pi, ESP32)
-- **Graphics Programming** — Custom shaders, OpenGL, real-time rendering
+### 🔧 What I build
 
-## Tech Stack
+- **IoT firmware** — ESP32-S3, FreeRTOS, MQTT/TLS, OTA, deep sleep
+- **Production daemons** — C on Raspberry Pi, systemd, 0 crashes in production
+- **Real-time graphics** — OpenGL ES, GLSL shaders, projection mapping
+- **Embedded HMI** — OpenGL ES on bare metal, no desktop OS required
 
-**Languages:** C • C++
-**Graphics:** OpenGL • GLSL • Raylib • GPU programming
-**Embedded:** Raspberry Pi • ESP32 • Arduino • Serial communication
-**Systems:** Linux • systemd • Memory safety (Valgrind, AddressSanitizer)
-**Tools:** Git • Make/CMake • GCC/Clang
+---
 
+### 📦 Recent projects
 
-Specializing in:
-- Interactive installations & projection mapping
-- Production embedded systems
-- Real-time graphics & shader development
-- Custom technical tools
+| Project | Description | Stack |
+|---|---|---|
+| [EchoMesh](https://github.com/grerfou/EchoMesh) | ESP32-S3 IoT pipeline — FreeRTOS → MQTT/TLS → Grafana + OTA | C · ESP-IDF · FreeRTOS · MQTT |
+| [RayMap](https://github.com/grerfou/RayMap) | Header-only C lib for real-time projection mapping (homography, mesh warping, FFmpeg) | C · OpenGL · FFmpeg |
+| Polaris | Interactive installation — ESP32 + GLSL generative shaders | C · GLSL · ESP32 |
+| Minitel | C production daemon on Raspberry Pi, 0 crash over full run | C · Linux · systemd |
 
+---
+
+### ⚙️ Stack
+
+```
+Languages  : C · C++
+Embedded   : ESP32 · ESP-IDF · FreeRTOS · Raspberry Pi · Linux · systemd
+Graphics   : OpenGL · OpenGL ES · GLSL · raylib
+IoT        : MQTT · TLS · OTA · deep sleep · HiveMQ · InfluxDB · Grafana
+Tools      : CMake · GCC · Git · Valgrind · AddressSanitizer · Docker
+```
 
 ---

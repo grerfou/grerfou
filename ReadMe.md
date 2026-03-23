@@ -17,8 +17,8 @@ I build embedded systems that run without crashing — and look good doing it.
 
 | Project | Description | Stack |
 |---|---|---|
-| [EchoMesh](https://github.com/grerfou/EchoMesh) | ESP32-S3 IoT pipeline — FreeRTOS → MQTT/TLS → Grafana + OTA | C · ESP-IDF · FreeRTOS · MQTT |
-| [RayMap](https://github.com/grerfou/RayMap) | Header-only C lib for real-time projection mapping (homography, mesh warping, FFmpeg) | C · OpenGL · FFmpeg |
+| EchoMesh | ESP32-S3 IoT pipeline — FreeRTOS → MQTT/TLS → Grafana + OTA | C · ESP-IDF · FreeRTOS · MQTT |
+| RayMap | Header-only C lib for real-time projection mapping (homography, mesh warping, FFmpeg) | C · OpenGL · FFmpeg |
 | Polaris | Interactive installation — ESP32 + GLSL generative shaders | C · GLSL · ESP32 |
 | Minitel | C production daemon on Raspberry Pi, 0 crash over full run | C · Linux · systemd |
 
